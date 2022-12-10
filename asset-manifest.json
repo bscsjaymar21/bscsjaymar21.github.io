@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bscsjaymar21.github.io./static/css/main.a62df750.css",
+    "main.js": "/bscsjaymar21.github.io./static/js/main.fbdb3d40.js",
+    "static/media/jaymar.png": "/bscsjaymar21.github.io./static/media/jaymar.249f24ff66e4024803f7.png",
+    "index.html": "/bscsjaymar21.github.io./index.html",
+    "main.a62df750.css.map": "/bscsjaymar21.github.io./static/css/main.a62df750.css.map",
+    "main.fbdb3d40.js.map": "/bscsjaymar21.github.io./static/js/main.fbdb3d40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a62df750.css",
+    "static/js/main.fbdb3d40.js"
+  ]
+}
